@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_group">
+        <item>бИСТ-191</item>
+        <item>бИСТ-192</item>
+        <item>бИСТ-193</item>
+    </string-array>
+    <string-array name="raspisanie">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+</resources>
